@@ -1,0 +1,7 @@
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter02\Basics\Numbers\Numbers\Numbers\bin\Debug\Numbers.exe.config
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter02\Basics\Numbers\Numbers\Numbers\bin\Debug\Numbers.exe
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter02\Basics\Numbers\Numbers\Numbers\bin\Debug\Numbers.pdb
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter02\Basics\Numbers\Numbers\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter02\Basics\Numbers\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter02\Basics\Numbers\Numbers\Numbers\obj\Debug\Numbers.exe
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter02\Basics\Numbers\Numbers\Numbers\obj\Debug\Numbers.pdb

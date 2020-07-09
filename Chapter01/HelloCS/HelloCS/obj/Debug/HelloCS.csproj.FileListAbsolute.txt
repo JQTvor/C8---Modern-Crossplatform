@@ -1,0 +1,7 @@
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter01\HelloCS\HelloCS\bin\Debug\HelloCS.exe.config
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter01\HelloCS\HelloCS\bin\Debug\HelloCS.exe
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter01\HelloCS\HelloCS\bin\Debug\HelloCS.pdb
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter01\HelloCS\HelloCS\obj\Debug\HelloCS.csprojAssemblyReference.cache
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter01\HelloCS\HelloCS\obj\Debug\HelloCS.csproj.CoreCompileInputs.cache
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter01\HelloCS\HelloCS\obj\Debug\HelloCS.exe
+D:\Users\Jonny\source\repos\C 80 and NET CORE 3 Modern-Cross Platform Development\Chapter01\HelloCS\HelloCS\obj\Debug\HelloCS.pdb
